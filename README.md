@@ -1,6 +1,7 @@
 # jbsaintebeuve/homebrew-tap
 
 ```sh
+brew trust --formula jbsaintebeuve/tap/vid2gif   # required since Homebrew 7
 brew install jbsaintebeuve/tap/vid2gif
 vid2gif setup
 ```
