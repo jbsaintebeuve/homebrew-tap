@@ -5,8 +5,8 @@ brew install jbsaintebeuve/tap/vid2gif
 vid2gif setup
 ```
 
-| Formule | Description |
+| Formula | Description |
 |---|---|
-| [vid2gif](https://github.com/jbsaintebeuve/video-to-gif) | Vidéo ou lien (X, YouTube…) → GIF en un clic droit sur macOS |
+| [vid2gif](https://github.com/jbsaintebeuve/video-to-gif) | Turn a video or link (X, YouTube…) into a GIF with a right-click on macOS |
 
-Les formules sont publiées automatiquement par le workflow de release de chaque projet. Ne pas les modifier à la main.
+Each project's release workflow publishes its formula here automatically. Don't edit the formulas by hand.
